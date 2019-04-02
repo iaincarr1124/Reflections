@@ -1,0 +1,9 @@
+This is my first reflection about version control
+
+There are several methods of version control :
+
+You can save multiple files of the same document at different stage
+
+Or you can use a program designed for version control
+
+I am learning about GIT and GITHub

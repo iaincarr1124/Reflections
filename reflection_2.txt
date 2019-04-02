@@ -1,0 +1,9 @@
+GIT saves versions of the file by making commits
+
+A commit should be made anytime there is logical change made.
+
+This is the most suitable time to make changes so If something goes wrong you have an idea where to look
+
+You can track commits using Git log
+
+This will show every commit made 
